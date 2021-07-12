@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/moviie-card-CRUD/precache-manifest.3b3bd7d7d8f0b0f7bc4fe5e03207e5b8.js"
+  "/moviie-card-CRUD/precache-manifest.074fe9a5e112a9392b84a8cf5b52d452.js"
 );
 
 self.addEventListener('message', (event) => {

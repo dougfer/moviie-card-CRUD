@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/moviie-card-CRUD/static/css/main.5d58c8a2.chunk.css",
-    "main.js": "/moviie-card-CRUD/static/js/main.fdd369a8.chunk.js",
-    "main.js.map": "/moviie-card-CRUD/static/js/main.fdd369a8.chunk.js.map",
+    "main.js": "/moviie-card-CRUD/static/js/main.7cdca7aa.chunk.js",
+    "main.js.map": "/moviie-card-CRUD/static/js/main.7cdca7aa.chunk.js.map",
     "runtime-main.js": "/moviie-card-CRUD/static/js/runtime-main.16407d6c.js",
     "runtime-main.js.map": "/moviie-card-CRUD/static/js/runtime-main.16407d6c.js.map",
     "static/js/2.bf76383a.chunk.js": "/moviie-card-CRUD/static/js/2.bf76383a.chunk.js",
     "static/js/2.bf76383a.chunk.js.map": "/moviie-card-CRUD/static/js/2.bf76383a.chunk.js.map",
     "index.html": "/moviie-card-CRUD/index.html",
-    "precache-manifest.3b3bd7d7d8f0b0f7bc4fe5e03207e5b8.js": "/moviie-card-CRUD/precache-manifest.3b3bd7d7d8f0b0f7bc4fe5e03207e5b8.js",
+    "precache-manifest.074fe9a5e112a9392b84a8cf5b52d452.js": "/moviie-card-CRUD/precache-manifest.074fe9a5e112a9392b84a8cf5b52d452.js",
     "service-worker.js": "/moviie-card-CRUD/service-worker.js",
     "static/css/main.5d58c8a2.chunk.css.map": "/moviie-card-CRUD/static/css/main.5d58c8a2.chunk.css.map",
     "static/js/2.bf76383a.chunk.js.LICENSE.txt": "/moviie-card-CRUD/static/js/2.bf76383a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.16407d6c.js",
     "static/js/2.bf76383a.chunk.js",
     "static/css/main.5d58c8a2.chunk.css",
-    "static/js/main.fdd369a8.chunk.js"
+    "static/js/main.7cdca7aa.chunk.js"
   ]
 }
